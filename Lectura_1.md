@@ -1,1 +1,6 @@
-
+- Introduce CF y CBF.
+- Describe tipos de CF: No Prob: Vecinos cercanos y Prob: 
+- Describe cómo se realizan las predicciones para cada modelo.
+- Incluye retos practicos en la implementacion de los modelos
+- Presenta variaciones de enfoque de los modelos (item-based v/s user-based)
+- 
