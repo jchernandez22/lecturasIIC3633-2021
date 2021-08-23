@@ -1,12 +1,3 @@
-- Introduce CF y CBF.
-- Describe tipos de CF: No Prob: Vecinos cercanos y Prob: 
-- Describe cómo se realizan las predicciones para cada modelo.
-- Incluye retos practicos en la implementacion de los modelos
-- Presenta variaciones de enfoque de los modelos (item-based v/s user-based)
-- Da juicios de valor a veces (considered the most important criteria to evaluate, p312)
-- cambiar orden del paper y presentar metricas para los algoritmos propuestos
-- mostrar cómo captan las cosas las metricas y compararlas con cómo se comportan los metodos en la realidad 
-
 # Crítica: Collaborative Filtering Recommender Systems 
 
 Este paper posee un enfoque totalmente informativo del estado del arte del Collaborative Filtering (CF) en el año 2007 que fue cuando se publicó. Los autores comienzan por presentarnos cómo funciona conceptualmente el CF, en qué campos se suele utilizar y en qué se diferencia del Content-Based Filtering. Luego, nos presenta las distintas implementaciones del CF junto con sus métodos predictivos, agrupadas en probabilísiticas y determinísitcas, los principales retos a los que se enfrentan estas implementaciones. También nos presentan los problemas que comparten todas ellas relacionadas a la recopilación de ratings como el "cold-start", y los métodos de evaluación de los CF existentes, aclarándonos que no existe ninguno predominante y que poseen distintos objetivos de evaluación. Ya para el final del paper, se nos presentan los retos a los que se enfrentaban en aquel tiempo los investigadores de esta área, las preguntas abiertas que se buscaban aclarar y también preguntas que debemos hacernos a la hora de implementar.
