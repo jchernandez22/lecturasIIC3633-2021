@@ -9,8 +9,8 @@ Como crítica al paper, me gustó que dejaran un espacio para observar hacia dó
 
 Sin embargo, no me gustó que no compararan el *Content-Based* con *Collaborative Filtering* u otros approaches de sistemas recomendadores.
 
-Sentí que faltó un área comparativa entre métodos con alguna métrica de rendimiento ya que sentí muy general las explicaciones de los algoritmos y no me quedó claro cuál era mejor para cada caso.
+Sentí que faltó un área comparativa entre métodos basados en contenidos con alguna métrica de rendimiento ya que sentí muy general las explicaciones de los algoritmos y no me quedó claro en cuáles áreas uno es superior a otro.
 
-Finalmente, no comprendí como los algoritmos basados en decission trees se actualizaban ya que usualmente uno crea un árbol pero en estos casos se necesita actualizar constantemente el modelo a partir de la información nueva que se instaura en la base de datos.
+Finalmente, no comprendí como los algoritmos basados en decission trees se actualizaban ya que usualmente uno crea un árbol "fijo" y lo usa para clasificar, pero en estos casos se necesita actualizar constantemente el modelo a partir de la información nueva que se instaura en la base de datos. No me quedó claro si estos modelos debían rehacerse cada cierto tiempo o si existían métodos para actualizar uno ya existente.
 
 Juan C. Hernández S. | N° Alumno: 17642744
