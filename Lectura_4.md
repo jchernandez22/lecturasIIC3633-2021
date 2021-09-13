@@ -5,11 +5,12 @@ Luego nos exponen la importancia de los *User Profiles* y cómo estos permiten s
 Posteriormente, nos expone algunos modelos basados en contenido que poseen distintas formas de enfrentar el problema, tales como: probabilística, de clasificación lineal o a través de decission trees, y otros que agregan implicit feedback al modelo. 
 Por último, nos presenta las tendencias de los sistemas basados en contenido y algunas limitaciones de estos sistemas. 
 
+Como crítica al paper, me gustó que dejaran un espacio para observar hacia dónde se dirige el estudio de esta tecnología ya que en estas áreas de estudio nuevas todo está en un progreso rápido. 
 
-333 rocco como que no habla nada al respecto, menciona con suerte
+Sin embargo, no me gustó que no compararan el *Content-Based* con *Collaborative Filtering* u otros approaches de sistemas recomendadores.
 
-Aclarar las tendencias del algoritmo me parece super bueno para tener un panorama más claro de cómo está evolucionando el área de investigación. Me parece fundamental agregar este punto en papers que estudian áreas nuevas ya que están día a día cambiando.
+Sentí que faltó un área comparativa entre métodos con alguna métrica de rendimiento ya que sentí muy general las explicaciones de los algoritmos y no me quedó claro cuál era mejor para cada caso.
 
-
+Finalmente, no comprendí como los algoritmos basados en decission trees se actualizaban ya que usualmente uno crea un árbol pero en estos casos se necesita actualizar constantemente el modelo a partir de la información nueva que se instaura en la base de datos.
 
 Juan C. Hernández S. | N° Alumno: 17642744
