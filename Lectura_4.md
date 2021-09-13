@@ -1,11 +1,8 @@
 # Crítica: Content-Based Recommendation Systems
 
 El paper nos presenta las distintas variantes que existen de **sistemas recomendadores basados en contenido**. Comienza por explicarnos la representación de los items y los problemas asociados a las características de texto libre y soluciones a estas problemátcas como el *stemming*.
-
 Luego nos exponen la importancia de los *User Profiles* y cómo estos permiten sugerir items a partir de los historiales de compra y reviews  de un usuario.
-
 Posteriormente, nos expone algunos modelos basados en contenido que poseen distintas formas de enfrentar el problema, tales como: probabilística, de clasificación lineal o a través de decission trees, y otros que agregan implicit feedback al modelo. 
-
 Por último, nos presenta las tendencias de los sistemas basados en contenido y algunas limitaciones de estos sistemas. 
 
 
